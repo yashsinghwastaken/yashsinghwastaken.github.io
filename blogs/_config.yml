@@ -23,7 +23,7 @@ email: mailmeatyashsingh@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   A view of cerebral side of my brain and it is mostly just me ranting about
   something or thinking about something.
-baseurl: "/blog" # the subpath of your site, e.g. /blog
+baseurl: "/blogs" # the subpath of your site, e.g. /blog
 url: "yashwastaken.xyz" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 0xdarksoul
 github_username:  yashsinghcodes
