@@ -7,6 +7,7 @@ body{
 	padding:0 10px;
 	background-color: #000000 /*#171717*/;
 	color:#FFFAFA;
+	animation: pulse 3s;
 }
 .dbs-gif{
     width:15%;
@@ -44,4 +45,13 @@ img{
 .added-class {
 	background-image: linear-gradient(135deg, #ffd4d4 25%, #ffffff 25%, #ffffff 50%, #ffd4d4 50%, #ffd4d4 75%, #ffffff 75%, #ffffff 100%);
 	background-size: 11.31px 11.31px;
+}
+
+@keyframes pulse {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
 }
