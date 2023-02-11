@@ -24,6 +24,7 @@ body{
 .para{
     font-family: monospace;
     padding: 5px;
+	padding-left: 7px;
 }
 
 a{
