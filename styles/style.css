@@ -1,6 +1,6 @@
 body{
 	margin:auto;
-  margin-top: 3%;
+  	margin-top: 3%;
 	max-width:650px;
 	line-height:1.6;
 	font-family: monospace;
@@ -23,6 +23,7 @@ body{
 
 .para{
     font-family: monospace;
+    padding: 5px;
 }
 
 a{
